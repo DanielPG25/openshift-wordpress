@@ -1,3 +1,3 @@
 # openshift-wordpress
 
-prueba
+prueba 2
